@@ -1,1 +1,4 @@
 cafeteria
+precios:
+cafe= 2000
+pan= 1000
